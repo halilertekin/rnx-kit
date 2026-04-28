@@ -35,10 +35,10 @@
   "dependencies": {
     "@octokit/core": "^4.0.0",
     "@octokit/plugin-rest-endpoint-methods": "^6.0.0",
-    "@octokit/request-error": "^3.0.0",
+    "@octokit/request-error": "^7.1.0",
     "@rnx-kit/config": "^0.6.0",
     "env-paths": "^2.2.1",
-    "fast-xml-parser": "^4.0.8",
+    "fast-xml-parser": "^5.7.2",
     "find-up": "^5.0.0",
     "ora": "^5.4.1",
     "pkg-dir": "^5.0.0",
